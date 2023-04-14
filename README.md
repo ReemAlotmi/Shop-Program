@@ -10,5 +10,5 @@ A shop program where we designed classes and their relationships. Through this p
 ## Who 
 **Authors**
 * [Reem Alotmi (Me)](https://github.com/ReemAlotmi)
-* [Talla Bunjabi] ()
-* [Najlaa Alnabati] ()
+* [Talla Bunjabi] ( )
+* [Najlaa Alnabati] ( )
